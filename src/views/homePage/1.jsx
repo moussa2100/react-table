@@ -608,3 +608,56 @@ export const dt = [
     body: "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut",
   },
 ];
+
+export const employees = [
+  {
+    id: 1,
+    name: "John Doe",
+    employment: "Active",
+    salary: "$30000",
+    position: "Software Engineer",
+    age: "32",
+    profileImage:
+      "https://randompicturegenerator.com/img/people-generator/g807c681d5f257eb8c3961d9565e9692d444f7f8a056352c391d962acf3f4e5901e68cb72a188e355b90a4dd879a45178_640.jpg",
+  },
+  {
+    id: 2,
+    name: "Jane Doe",
+    employment: "Inactive",
+    salary: "$25000",
+    position: "Senior Software Engineer",
+    age: "32",
+    profileImage:
+      "https://randompicturegenerator.com/img/people-generator/gc1d29ce8fc0d5331f847c263c6ce1b8239a30e684ad92740c4b6d3eb2794e50355dfcf7011495fd0c1ac16390a9a9ed6_640.jpg",
+  },
+  {
+    id: 3,
+    name: "John Smith",
+    employment: "Pending",
+    salary: "$30000",
+    position: "Software Engineer",
+    age: "32",
+    profileImage:
+      "https://randompicturegenerator.com/img/people-generator/gd121f56d8674f28d00ce9f1c44686e7a9bee58b8d33a3c57daaada1fa493c214290f9490833d1ff18f4ee16cd5298e1f_640.jpg",
+  },
+  {
+    id: 4,
+    name: "Jane Smith",
+    employment: "Training",
+    salary: "$25000",
+    position: "Senior Software Engineer",
+    age: "32",
+    profileImage:
+      "https://randompicturegenerator.com/img/people-generator/g5d8c66cb0f69f011ab5315c6e3b29c5250a2c59f03c9fb0136a638b1bb9b2d20172975768ce3425bde4d664b712ace74_640.jpg",
+  },
+  {
+    id: 5,
+    name: "John Doe",
+    employment: "Active",
+    salary: "$30000",
+    position: "Software Engineer",
+    age: "32",
+    profileImage:
+      "https://randompicturegenerator.com/img/people-generator/g846294a31ce69fb5a7c35f45e3c4a917e1448ac59b4514d8def85c9d0c34e79e4a42edfb2d4c142e9ff4889235f7dc95_640.jpg",
+  },
+];
