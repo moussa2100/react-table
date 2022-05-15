@@ -1,0 +1,13 @@
+.lbl:focus ~ label {
+  background-color: #f9fafb;
+  top: 9px;
+  font-size: 14px;
+}
+
+.lbl {
+  outline: none !important;
+}
+
+input {
+  outline: none !important;
+}
